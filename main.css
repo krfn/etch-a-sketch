@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#container {
+    align-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    margin: auto;
+    justify-content: space-evenly;
+    width: 500px;
+}
+
+.grid {
+    border: 2px solid white;
+    height: 100px;
+    width: 100px;
+}
